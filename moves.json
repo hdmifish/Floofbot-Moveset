@@ -2,15 +2,15 @@
 	{
 		"title":"gotobed",
 		"hitRate":2,
-		"AhitDmg":0,
+		"AhitDmg":-20,
 		"AmissDmg":0,
-		"DhitDmg":-20,
-		"DmissDmg":2,
+		"DhitDmg":0,
+		"DmissDmg":-20,
 		"lv":1,
 		"psn":false, 
 		"pack":"common",
-		"hitMsg":" {attacker} told {defender} to go to bed, and {defender} actually listened! {defender} heals {ddmg} hp from a good night's sleep",
-		"missMsg":" {attacker} told {defender} to go to bed, but {defender} only got annoyed by it and took {ddmg} damage",
+		"hitMsg":" {attacker} took a quick nap!",
+		"missMsg":" {attacker} told {defender} to go to bed. Grumpily, {defender} healed {ddmg} damage from a much needed sleep",
 		"author":"kev"
 	},
 	{
