@@ -579,8 +579,34 @@
 		"hitMsg":"{attacker} for some unknown reason, entered the dog park. The mysterious hooded figures hummed and vibrated loudly and stole {attacker}'s heart which as we all know, develops when we turn nine years old, and gave some of the energy to {defender} who drew a bloodstone circle and chanted Shakira-Shakira and gained {ddmg}.",
 		"missMsg":"{attacker} stayed out of the dog park. They know that humans are not allowed in the dog park. Everyone in the town was given {admg} hp by a vauge, yet menacing, government agency",
 		"author":"unknown"
+	},
+	{
+        "title":"patience",
+	"pack":"common",
+        "hitRate":3,
+        "AhitDmg":0,
+        "AmissDmg":0,
+        "DhitDmg":5,
+        "DmissDmg":0,
+        "psn":false, 
+        "hitMsg":" {attacker} disables the battle timer then waits years to take their turn. {defender} takes {DhitDmg} damage from old age.",
+        "missMsg":" {attacker} waits patiently. {defender} takes {DmissDmg} damage.",
+        "author":"sirmrme"
+	},
+	{
+	   "title":"petty theft",
+	   "pack":"common",
+	   "hitRate":5,
+	   "AhitDmg":-3,
+	   "AmissDmg":5,
+	   "DhitDmg":3,
+	   "DmissDmg":0,
+	   "psn":false,
+	   "hitMsg":"{attacker} steals {ddmg} health from {defender}",
+	   "missMsg":"{attacker} tries to steal {defender}'s health but their pickpocket skill wasn't high enough. {attacker} is punched hard in the face taking {admg} damage.",
+	   "author":"srmrme"
 	}
-
+	
 
 
 ]
